@@ -1,9 +1,9 @@
 <h1 align="center">
-    Laravel Authorization
+    Laravel RBAC
 </h1>
 
 <p align="center">
-    <strong>Laravel-authz is an authorization library for the laravel framework.</strong>    
+    <strong>Laravel-rbac is an authorization library for the laravel framework.</strong>    
 </p>
 
 <p align="center">
